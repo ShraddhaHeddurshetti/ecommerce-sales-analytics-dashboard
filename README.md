@@ -201,10 +201,3 @@ app/dashboard.py
 
 6. Click Deploy.
 
-## Author
-
-Shraddha Heddurshetti
-
-Data Science Student with interests in Data Analytics, Machine Learning, and Business Intelligence.
-
-This version is more human-written, simple, and suitable for a college project, internship project, or GitHub portfolio.
