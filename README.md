@@ -17,8 +17,7 @@ Raw Data → Data Ingestion → Data Cleaning → Data Transformation → SQLite
 * Plotly
 * SQLite
 * SQLAlchemy
-* Pytest
-* GitHub Actions
+
 
 ## Project Structure
 
@@ -36,14 +35,9 @@ ecommerce-analytics-dashboard/
 │   └── db.py
 ├── app/
 │   └── dashboard.py
-├── tests/
-│   └── test_clean.py
-├── .github/workflows/
-│   └── ci.yml
 ├── requirements.txt
 └── README.md
 ```
-
 ## Getting Started
 
 Clone the repository:
@@ -128,19 +122,6 @@ The dashboard will open in your browser at:
 ```text
 http://localhost:8501
 ```
-
-## Running Tests
-
-```bash
-pytest tests/ -v
-```
-
-or
-
-```bash
-pytest tests/ -v --tb=short
-```
-
 ## Dashboard Features
 
 * Revenue and sales performance analysis
