@@ -33,10 +33,7 @@ ecommerce-analytics-dashboard/
 │   ├── clean.py
 │   ├── transform.py
 │   └── db.py
-├── app/
-│   └── dashboard.py
-├── requirements.txt
-└── README.md
+
 ```
 ## Getting Started
 
